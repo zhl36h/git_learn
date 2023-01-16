@@ -1,1 +1,2 @@
-learn to use git
+lear to use git
+try to commit
